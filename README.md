@@ -21,18 +21,18 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik07272&show_icons=true&&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en" alt="karthik07272" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puni2426&show_icons=true&&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en" alt="puni2426" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik07272&layout=compact)](https://github.com/puni2426/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puni2426&layout=compact)](https://github.com/puni2426/github-readme-stats)
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik07272&label=Profile%20views&color=0e75b6&style=flat" alt="karthik07272" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik07272" alt="karthik07272" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puni2426&label=Profile%20views&color=0e75b6&style=flat" alt="puni2426" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puni2426" alt="puni2426" /></a> </p>
 
 
 
