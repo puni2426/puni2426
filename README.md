@@ -1,8 +1,8 @@
 ### Hi There Here Is What I'am working On! 👋
 
 
-- 🔭 I’m currently working on ...Bootstrap,Web-Development
-- 🌱 I’m currently learning ...Java
+- 🔭 I’m currently working on ...MongoDB
+- 🌱 I’m currently learning ...ETL Tools
 - 👯 I’m looking to collaborate on ...Python web-Development
 - 💬 Ask me about ...python
 - 📫 How to reach me:...[Portfolio](https://puni2426.github.io)
